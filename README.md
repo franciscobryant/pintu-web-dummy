@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Pintu Website
+
+## Colaborators:
+
+1. Noah Winston
+2. Jason Nathaniel
+3.
+4.
+
+#
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
