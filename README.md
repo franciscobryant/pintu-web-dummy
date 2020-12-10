@@ -4,7 +4,7 @@
 
 1. Noah Winston
 2. Jason Nathaniel
-3. Francisco Bryant
+3. 
 4.
 
 #
