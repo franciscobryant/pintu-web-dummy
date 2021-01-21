@@ -1,5 +1,7 @@
 # Pintu Website
 
+A dummy project for the purpose of teaching a worskshop on Github and React
+
 ## Colaborators:
 
 1. Noah Winston
