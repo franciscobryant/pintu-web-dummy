@@ -1,4 +1,4 @@
-# Pintu Website
+# Pintu Website (dummy)
 
 A dummy project for the purpose of teaching a worskshop on Github and React
 
